@@ -53,7 +53,7 @@ You have been asked to design a database that will have three tables:
 
 View the notebook (Bank_Marketing_DB.ipynb) to see the project tasks and all expected output for each task.
 
-successfully load the data into a PostgreSQL database after cleaning and getting it ready.
+Successfully load the data into a PostgreSQL database after cleaning and getting it ready.
 
 ![camp](https://github.com/Abhi707-bot/Designing-a-Bank-Marketing-DB/assets/68341067/1d364da1-24e5-4b7c-8f0a-9c5aca640fbd)
 
